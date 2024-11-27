@@ -56,8 +56,8 @@ A simple REST API built with [Gin](https://github.com/gin-gonic/gin) to calculat
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/emi-rest-api.git
-   cd emi-rest-api
+   git clone https://github.com/utkarshg1/Go-EMI-REST-API.git
+   cd Go-EMI-REST-API
    ```
 
 2. **Install Dependencies**:
